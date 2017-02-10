@@ -40,7 +40,7 @@ http://osm-icons.org/wiki/Icons
 A set of .png mapping icons created by [gravitystorm](https://github.com/gravitystorm)  
 https://github.com/gravitystorm/openstreetmap-carto/tree/master/symbols
 
->This list is just to get you started. There might be other places to find map icons. Feel free to make a pull request if you came across one.
+>This list is just to get you started. There might be other places to find map icons. Feel free to make a pull request if you come across one.
 
 
 
